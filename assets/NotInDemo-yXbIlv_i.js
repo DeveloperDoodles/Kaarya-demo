@@ -1,0 +1,1 @@
+import{d as e,i as t}from"./chunk-6KYCQHYJ-CwXXJxGO.js";var n=e();function r(){return(0,n.jsx)(t,{to:`/`,replace:!0})}export{r as default};
